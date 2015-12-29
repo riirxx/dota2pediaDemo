@@ -10,4 +10,4 @@
 
 ### License
 
-The MIT (buy me coffee by alipay) License (MIT)
+The MIT License (MIT)
