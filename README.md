@@ -2,7 +2,9 @@
 一个简单的小app，参考B站乱童的ios开发入门
 
 ###Demo
-![demo](./demos/demo.png)
+![demo](./demos/demo.tiff)
+
+![demo](./demos/demo1.tiff)
 
 ### License
 
