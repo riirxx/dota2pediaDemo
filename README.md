@@ -8,7 +8,7 @@
 <img src="./demo/demo1.png" width = "200" height = "340" alt="图片名称" align=center />
 
 ##注意
-请用自己的API KEY 用steam账号就可以申请
+请设置一个API KEY 用steam账号就可以申请
 
 ### License
 
